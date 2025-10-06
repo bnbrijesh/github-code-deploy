@@ -1,4 +1,4 @@
-#!/bin/bash
+#! /bin/bash 
 
-/etc/init.d/httpd stop 
+systemctl stop httpd 
 

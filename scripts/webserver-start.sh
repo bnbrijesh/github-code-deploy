@@ -1,4 +1,3 @@
-#!/bin/bash
+#! /bin/bash 
 
-/etc/init.d/httpd start
-
+systemctl start httpd
